@@ -88,35 +88,35 @@ df.plot(kind='line')
 
 ### OUTPUT:
 
-# ORIGINAL :
+#### ORIGINAL :
 
 <img width="1060" height="561" alt="image" src="https://github.com/user-attachments/assets/c77cbd49-f217-492e-b098-4a1c408eb0a9" />
 
 
-# REGULAR DIFFERENCING:
+#### REGULAR DIFFERENCING:
 
 <img width="1074" height="557" alt="image" src="https://github.com/user-attachments/assets/e233e237-800f-4b93-96a9-18183f3be90a" />
 
 
-# SEASONAL ADJUSTMENT:
+#### SEASONAL ADJUSTMENT:
 
 <img width="1075" height="559" alt="image" src="https://github.com/user-attachments/assets/ee784c1e-bf7d-4236-80d0-4fae441dfba2" />
 
-# LOG TRANSFORMATION:
+#### LOG TRANSFORMATION:
 
 <img width="1030" height="561" alt="image" src="https://github.com/user-attachments/assets/9eac07ec-7a80-4fd0-a549-95e5b325383c" />
 
-# LOG AND REGULAR DIFFERENCING:
+#### LOG AND REGULAR DIFFERENCING:
 
 
 <img width="1045" height="534" alt="image" src="https://github.com/user-attachments/assets/74a6cbf8-4257-4857-a435-de56123f4884" />
 
-# LOG AND REGUALR AND SEASONAL DIFFERENCING :
+#### LOG AND REGUALR AND SEASONAL DIFFERENCING :
 
 <img width="1021" height="520" alt="image" src="https://github.com/user-attachments/assets/c2985f76-c927-4c0c-8995-7baa20419d2e" />
 
 
-# OVERALL VIEW:
+#### OVERALL VIEW:
 
 <img width="722" height="547" alt="image" src="https://github.com/user-attachments/assets/e550ea63-7033-4246-ac27-8a67024c01b5" />
 
